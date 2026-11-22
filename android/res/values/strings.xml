@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">PPSSPP</string>
+    <string name="app_name">V.C PSP</string>
     <string name="shortcut_name">PPSSPP shortcut</string>
     <string name="shortcut_choose_game">Game</string>
     <string name="shortcut_choose_xmb">XMB (PSP system menu)</string>
